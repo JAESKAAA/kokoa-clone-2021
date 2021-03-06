@@ -1,3 +1,3 @@
 # Kokoa 2021 practice
 
-CSS got so much better!
+HTML & CSS got so much better!
