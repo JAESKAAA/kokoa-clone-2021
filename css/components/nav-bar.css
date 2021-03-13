@@ -9,9 +9,38 @@
   display: flex;
   justify-content: space-between;
   padding: 20px 50px;
+  box-sizing: border-box;
   border-top: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 .nav__link {
+  position: relative;
   color: #2e363e;
+}
+
+.nav__notification {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  background-color: tomato;
+  border-radius: 50%;
+  bottom: 15px;
+  left: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.nav__notification_ellipsis {
+  position: absolute;
+  display: flex;
+  bottom: 30px;
+  right: -5px;
+  border-radius: 50%;
+  width: 5px;
+  height: 5px;
+
+  background-color: tomato;
 }
