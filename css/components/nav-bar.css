@@ -20,17 +20,8 @@
 
 .nav__notification {
   position: absolute;
-  width: 30px;
-  height: 30px;
-  background-color: tomato;
-  border-radius: 50%;
+  left: 15px;
   bottom: 15px;
-  left: 20px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: white;
-  font-weight: 600;
 }
 
 .nav__notification_ellipsis {
