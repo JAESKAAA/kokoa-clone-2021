@@ -52,3 +52,8 @@
   display: block;
   margin-bottom: 10px;
 }
+
+.fa-exclamation-circle {
+  color: tomato;
+  opacity: 0.8;
+}
