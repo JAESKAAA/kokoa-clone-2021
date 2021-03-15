@@ -117,3 +117,11 @@
   will-change: transform;
   animation: heartBeat 1s linear infinite;
 }
+
+.icon-row div {
+  width: 25%;
+}
+
+.find__contacts {
+  text-align: center;
+}
